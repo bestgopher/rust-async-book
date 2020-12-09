@@ -1,6 +1,4 @@
-rust-async-book
-
-&lt;Asynchronous Programming in Rust> Chinese translation
+**[Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)** **Chinese translation**
 
 ### 目录
 
