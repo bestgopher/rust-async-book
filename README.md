@@ -62,6 +62,18 @@ rust-async-book
 
    9.3. [Testing the Server](https://github.com/bestgopher/rust-async-book/blob/main/9-3-Testing%20the%20TCP%20Server.md)
 
+10. [TODO: I/O](https://github.com/bestgopher/rust-async-book/blob/main/10-IO.md)
+
+    10.1. [TODO: AsyncRead and AsyncWrite](https://github.com/bestgopher/rust-async-book/blob/main/10-1-AsyncRead%20and%20AsyncWrite.md)
+
+11. [TODO: Asynchronous Design Patterns: Solutions and Suggestions](https://github.com/bestgopher/rust-async-book/blob/main/11-Asynchronous%20Design%20Patterns:%20Solutions%20and%20Suggestions.md)
+
+    11.1. [TODO: Modeling Servers and the Request/Response Pattern](https://github.com/bestgopher/rust-async-book/blob/main/11-1-Modeling%20Servers%20and%20the%20RequestResponse%20Pattern.md)
+
+    11.2. [TODO: Managing Shared State](https://github.com/bestgopher/rust-async-book/blob/main/11-2-Managing%20Shared%20State.md)
+
+    
+
    
 
    
